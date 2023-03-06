@@ -26,7 +26,7 @@
 #endif
 
 #ifndef WS2812_ARTNET_UDP_BUFFER_SIZE
-#define WS2812_ARTNET_UDP_BUFFER_SIZE         140      // Max 30 columns with 4 bytes per pixel
+#define WS2812_ARTNET_UDP_BUFFER_SIZE         420      // Max 30 columns with 4 bytes per pixel
 #endif
 
 #ifndef WS2812_ARTNET_UDP_MAX_PACKETS
